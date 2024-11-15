@@ -3,13 +3,13 @@ import { getFirestore } from "firebase/firestore"; // Import Firestore
 import { getAnalytics } from "firebase/analytics";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDBX3ZltfKVH9Kxr1VopP2-AvkrFCCf18E",
-  authDomain: "portfolio-aman-wadhwani.firebaseapp.com",
-  projectId: "portfolio-aman-wadhwani",
-  storageBucket: "portfolio-aman-wadhwani.appspot.com",
-  messagingSenderId: "951899069673",
-  appId: "1:951899069673:web:c545bbd8b9276e3f176478",
-  measurementId: "G-1CGBVL93V9"
+  apiKey: "API INFORMATION IS REMOVED DUE TO SECURITY ISUUES",
+  authDomain: "API INFORMATION IS REMOVED DUE TO SECURITY ISUUES",
+  projectId: "API INFORMATION IS REMOVED DUE TO SECURITY ISUUES",
+  storageBucket: "API INFORMATION IS REMOVED DUE TO SECURITY ISUUES",
+  messagingSenderId: "API INFORMATION IS REMOVED DUE TO SECURITY ISUUES",
+  appId: "API INFORMATION IS REMOVED DUE TO SECURITY ISUUES",
+  measurementId: "API INFORMATION IS REMOVED DUE TO SECURITY ISUUES"
 };
 
 const app = initializeApp(firebaseConfig);
