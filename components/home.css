@@ -36,11 +36,16 @@ img.main-pic {
     filter: opacity(0.4);
 }
 
+.download-link {
+    z-index: 12;
+}
+
 .download-button {
     background-color: var(--complementary-color);
     color: var(--text-color);
     width: fit-content;
     height: fit-content;
+    z-index: 12;
 
     &&:hover {
         transition: all 0.35s ease-in-out;
@@ -143,7 +148,7 @@ img.main-pic {
     }
 
     .download-button {
-        margin: 1rem 0;
+        margin: 1.25rem 0;
         position: relative;
         top: -12vh;
         left: -5vw;
